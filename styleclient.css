@@ -1,0 +1,150 @@
+* {
+    transition: 0.75s linear;
+    text-decoration: none;
+    color: white ;
+    text-align: center ;
+}
+
+body {
+    padding: 2 ;
+    padding-bottom: 7px ;
+    background-color: #2b1821 ;
+    display: inline;
+}
+
+header {
+    position: fixed ;
+    top: 30px ;
+    left: 70px ;
+    font: oblique 500 17pt Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  ;
+}
+
+.home {
+    display: flex ;
+    justify-content: space-between ;
+    padding: 10px 30px ;
+    margin: 100px 5px 10px 5px ;
+    position: relative;
+}
+
+.forever2 {
+    font-size: 58px;
+    color: #ffffff;
+    font-weight: 500;
+    margin: 70px 0px 160px 85px ;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+.btn {
+    padding: 10px 28px;
+    background: #fd288d;
+    border-radius: 40px;
+    font: 700 17pt Calbiri ;
+    color: #ffffff;
+    letter-spacing: 2px;
+    position: absolute ;
+    left: 165px ;
+    margin: 395px 0px 0px 171px ;
+}
+
+.btn:hover {
+    transform: translateY(-13px);
+}
+
+.s {
+    border-radius: 30px ;
+    height: 500px;
+    margin-right:85px ;
+    
+}
+
+.titre {
+    font: 500 37pt 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #fd288d;
+    margin-top: 150px;
+    margin-bottom: 150px;
+
+}
+.titre1 {
+    font: 500 37pt 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #fd288d;
+    margin-bottom: 150px;
+}
+.titre2 {
+    font: 500 37pt 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #fd288d;
+    margin-bottom: 150px;
+}
+.titre3 {
+    font: 500 37pt 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #fd288d;
+    margin-bottom: 150px;
+}
+
+
+
+.fohm {
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+    margin: 10px ;
+}
+
+.fahm {
+    width: 177px ;
+    height: 177px ;
+    border-radius: 30px;
+    margin: auto 100px 100px 100px ;
+}
+
+.fahm:hover {
+    transform: scale(1.20);
+}
+
+.fahma {
+    width: 350px ;
+    height: 458px ;
+    border-radius: 25px ;
+    box-shadow: .5px .5px 18px 7px #121312 ;
+}
+
+.courses {
+    display: flex;
+    justify-content: space-between ;
+    padding: 20px 20px ;
+}
+
+.soustitre {
+    padding-top: 7px ;
+    font: oblique 600 23pt Georgia, 'Times New Roman', Times, serif ;
+}
+
+.lirean {
+    border: none;
+    font: 400 17pt 'Poppins', sans-serif ;
+    color: #ffffff;
+    border-radius: 20px;
+    padding: 7px 23px ;
+    text-align:center;
+    background-color: #7acf19;
+}
+
+.lirean:hover {
+    transform: scale(1.1);
+}
+
+.l6 {
+    font: 500 50pt 'Poppins', sans-serif ;
+    width: 400px ;
+    padding: 150px 35px ;
+    font-size: 70px;
+    color: #ffffff;
+    border: 5px solid #fd288d;
+    border-radius: 20px;
+    text-align:center;
+}
+
+.l6:hover {
+    background-color: #ffffff1a;
+}
